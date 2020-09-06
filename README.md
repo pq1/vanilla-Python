@@ -26,3 +26,7 @@ There should not be any projects in here.
 * Check what kind of methods within package
 	1. ```import [package-name]```
 	2. ```dir([package-name])```
+
+# Debugging
+* Install pixiedust
+* Start of a cell -> ```%%pixe_bugger```
